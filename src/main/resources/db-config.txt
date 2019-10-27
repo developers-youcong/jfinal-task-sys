@@ -1,0 +1,3 @@
+jdbcUrl=jdbc:mysql://localhost:3306/blog?useUnicode=true&characterEncoding=utf8&useSSL=false
+user=root
+pwd=123456
